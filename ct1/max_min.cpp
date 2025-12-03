@@ -32,6 +32,6 @@ int main(){
     }
 
   pair<int ,int>result=Max_min(arr,0,n-1);
-  cout<<"min"<<result.first<<endl;
-  cout<<"max"<<result.second;
+  cout<<"max"<<result.first<<endl;
+  cout<<"min"<<result.second;
 }
